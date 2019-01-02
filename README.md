@@ -1,11 +1,6 @@
 # pay-php-sdk
 PHP支付SDK（微信支付 + 支付宝支付）
 
-[![Latest Stable Version](https://poser.pugx.org/zoujingli/pay-php-sdk/v/stable)](https://packagist.org/packages/zoujingli/pay-php-sdk)
-[![Total Downloads](https://poser.pugx.org/zoujingli/pay-php-sdk/downloads)](https://packagist.org/packages/zoujingli/pay-php-sdk)
-[![Latest Unstable Version](https://poser.pugx.org/zoujingli/pay-php-sdk/v/unstable)](https://packagist.org/packages/zoujingli/pay-php-sdk)
-[![License](https://poser.pugx.org/zoujingli/pay-php-sdk/license)](https://packagist.org/packages/zoujingli/pay-php-sdk)
-
 欢迎`Star`，欢迎`Fork`！
 
 
